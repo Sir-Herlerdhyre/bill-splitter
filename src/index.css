@@ -232,4 +232,17 @@ form h2 {
   form h2 {
     font-size: 1.8rem;
   }
+  .form-split-bill {
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+
+  .form-split-bill label {
+    text-align: left;
+  }
+
+  .form-split-bill input,
+  .form-split-bill select {
+    width: 100%;
+  }
 }
