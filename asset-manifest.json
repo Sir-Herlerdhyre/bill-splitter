@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bill-splitter/static/css/main.8bfd652b.css",
+    "main.css": "/bill-splitter/static/css/main.38cfa642.css",
     "main.js": "/bill-splitter/static/js/main.26f430cd.js",
     "index.html": "/bill-splitter/index.html",
-    "main.8bfd652b.css.map": "/bill-splitter/static/css/main.8bfd652b.css.map",
+    "main.38cfa642.css.map": "/bill-splitter/static/css/main.38cfa642.css.map",
     "main.26f430cd.js.map": "/bill-splitter/static/js/main.26f430cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bfd652b.css",
+    "static/css/main.38cfa642.css",
     "static/js/main.26f430cd.js"
   ]
 }
