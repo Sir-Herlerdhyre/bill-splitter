@@ -11,9 +11,9 @@ const App = () => {
   const initialFriends = [
     {
       id: 118836,
-      name: "Clark",
+      name: "Joseph",
       image: "https://i.pravatar.cc/48?u=118836",
-      balance: -7,
+      balance: -10,
     },
     {
       id: 933372,
