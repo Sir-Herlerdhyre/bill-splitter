@@ -1,4 +1,4 @@
-````markdown
+````
 # 🧾 Bill Splitter App
 
 A simple and interactive   React application   that helps you split bills with friends fairly. Add friends, manage balances, and see who owes whom — all in a clean and intuitive interface.
